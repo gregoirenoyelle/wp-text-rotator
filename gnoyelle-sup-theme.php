@@ -1,8 +1,8 @@
 <?php
 /*
-Plugin Name: gnoyelle : Options du thème par Grégoire
+Plugin Name: Text Rotator pour ACF
 Plugin URI: http://wwww.gregoirenoyelle.com
-Description: Toutes les options suplémentaires pour le thème
+Description: Pour faire défiler du texte avec les repeater ACF
 Version: 1.0
 Author: Grégoire Noyelle
 Author URI: http://wwww.gregoirenoyelle.com
